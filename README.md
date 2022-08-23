@@ -553,6 +553,7 @@
 
 # Building and Securing FastAPI Applications
 ## Structuring FastAPI Applications
+- https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI/tree/main/ch05/planner
 - Structuring in FastAPI applications
     - Building an event planner application
     - Implementing the models
