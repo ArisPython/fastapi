@@ -559,6 +559,7 @@
     - Implementing the models
     - Implementing routes
 ## Connecting to a Database
+- https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI/tree/main/ch06/planner
 - Setting up SQLModel
     - Tables
     - Rows
